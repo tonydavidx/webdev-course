@@ -1,0 +1,27 @@
+{
+  "name": "fruitsproject",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "4.7",
+    "mongoose": "^6.4.4",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonydavidx/webdev-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tonydavidx/webdev-course/issues"
+  },
+  "homepage": "https://github.com/tonydavidx/webdev-course#readme",
+  "description": ""
+}
