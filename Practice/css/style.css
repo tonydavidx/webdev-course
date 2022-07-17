@@ -1,0 +1,123 @@
+body {
+  height: 100%;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.header-section {
+  padding: 50px 40px;
+  background-color: #f2f7f8;
+}
+
+.site-logo h2 {
+  font-size: 46px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #40424a;
+  margin: 0;
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.header-buttons a {
+  margin-top: 15px;
+}
+
+.site-btn {
+  display: inline-block;
+  text-transform: uppercase;
+  min-width: 230px;
+  min-height: 20px;
+  text-align: center;
+  padding: 20px 10px 15px;
+  position: relative;
+  background-color: #fff;
+  margin-right: 10px;
+  border: 2px solid #40424a;
+  color: #40424a;
+  font-weight: 700;
+}
+
+.hero-section {
+  background: #f2f7f8;
+}
+
+.spad {
+  padding-top: 120px;
+  padding-bottom: 110px;
+}
+
+.hero-text {
+  margin-bottom: 80px;
+}
+
+@media only screen and (max-width:1600px) .hero-text h2 {
+  font-size: 120px;
+}
+
+.hero-text h2 {
+  line-height: normal;
+  font-size: 10rem;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  color: #808181;
+  line-height: 1.8;
+}
+
+.hero-text p {
+  font-size: 33px;
+  line-height: 1.5;
+}
+
+.hero-info h2 {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+.hero-info ul {
+  list-style: none;
+}
+
+ul,
+ol {
+  padding: 0;
+  margin: 0;
+}
+
+.hero-info ul li {
+  font-size: 24px;
+  color: #808181;
+  margin-bottom: 15px;
+}
+
+.hero-info ul li span {
+  color: #40424a;
+  display: inline-block;
+  min-width: 200px;
+}
+
+.hero-image {
+  padding-top: 0 0 1rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+.social-section {
+  color: #f9f9f9;
+  padding: 80px 0;
+}

@@ -1,0 +1,160 @@
+/* Fonts
+font-family: 'Nunito',sans-serif;
+font-family: 'Montserrat',sans-serif;
+font-family: 'Poppins',sans-serif;
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5.6rem;
+    color: #252525;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5em;
+    color: #252525;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #e42c64;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 2;
+    font-weight: 400;
+}
+
+hr {
+    border: dotted 5px;
+    border-bottom: none;
+    width: 10%;
+    margin: 50px auto;
+}
+
+a {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding: 10;
+    text-decoration: none;
+    color: #1c2938;
+}
+
+a:hover {
+    color: #1c2938;
+}
+
+.intro {
+    display: inline;
+    position: relative;
+    text-align: center;
+    top: 250px;
+}
+
+.top {
+    background-color: #b2fcff;
+    padding-top: 80px;
+    position: relative;
+}
+
+.profile-img {
+    width: 10%;
+    margin: 50 auto 10 auto;
+}
+
+.about {
+    width: 30%;
+    margin: 10 auto;
+}
+
+.top-cloud {
+    height: 195px;
+    position: absolute;
+    right: 450px;
+    top: 75px;
+
+}
+
+.bottom-cloud {
+    height: 250px;
+    position: absolute;
+    top: 240px;
+    left: 325px;
+}
+
+.mountain {
+    width: 100%;
+}
+
+.middle {
+    background-color: #ecfcff;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.webdes {
+    /* clear: left; */
+}
+
+.webdesign-img {
+    width: 20%;
+    float: left;
+    margin: 0 40 0 0px;
+}
+
+.graphic-img {
+    width: 20%;
+    float: right;
+    margin: 0 0 0 40px;
+}
+
+.contact-me {
+    margin: 100px auto 0 auto;
+    height: 270;
+}
+
+.btn {
+    border: solid 1px;
+    border-radius: 16px;
+    color: white;
+    background-color: #e42c64;
+    padding: 15px;
+    text-decoration: none;
+    margin: 20 0 20 0;
+    
+}
+
+.bottom {
+    background-color: #b2fcff;
+    padding: 50 0 20;
+}
+
+.footer-link {
+    position: relative;
+    font-family: 'Montserrat',sans-serif;
+
+}
+
+.footer-link :hover {
+    color: #ecfcff;
+    ont-family: 'Montserrat',sans-serif;
+
+}

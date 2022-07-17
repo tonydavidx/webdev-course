@@ -1,0 +1,23 @@
+ body {
+     background-color: #faf5ef;
+
+ }
+
+ hr {
+     /* background-color: blue; */
+     border-style: none;
+     border-top: dotted;
+     color: royalblue;
+     width: 10%;
+     /* height: 3px; */
+     border-width: 5px;
+
+ }
+
+h1{
+    color: crimson;
+}
+
+h3{
+    color: deepskyblue;
+}

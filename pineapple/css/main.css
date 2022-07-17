@@ -1,0 +1,17 @@
+h1 {
+    font-size: 150px;
+    color: gold;
+    text-align: center;
+}
+
+.appleimage {
+    display: block;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para {
+    text-align: center;
+    font-size: 18px;
+}
